@@ -1,6 +1,6 @@
 # Airport Queueing :airplane:
 
-The following Java class provides an interpretation of a **Prioritized queue algorithm** which was implemented in the scenario of being a queueing system at an airport. The simulation is made in a way that passengers enqueueing and dequeueing process from a waiting line is outputted in the `console`. The mentioned behaviour can be observed by compiling [the example project](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_09/Assignment_03/Airport_Queue_template), the previously mentioned class should be added in the same solution. 
+The included in the repository Java class - [HeapQueue](HeapQueue.java) - provides an interpretation of a **Prioritized queue algorithm** which was implemented in the scenario of being a queueing system at an airport. The simulation is made in a way that passengers enqueueing and dequeueing process from a waiting line is outputted in the `console`. The mentioned behaviour can be observed by compiling [the example project](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_09/Assignment_03/Airport_Queue_template), the previously mentioned class should be added in the same solution. 
 
 <br/>
 
