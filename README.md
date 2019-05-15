@@ -54,7 +54,7 @@ Amount of operations to dequeue first item of 10000000 was 24
 
 > Graph
 <p align="center">
-<img src="https://waffleio-direct-uploads-production.s3.amazonaws.com/uploads/5b631124103d580013dcf6a4/125516c66e82c728ace21e0d46db978826878dba87e6ab03f60da1cd6416743e7855e37a29cbb178f1132843434d0eee1e020a17b8eb8339a3e46979820e5ae8d76b5d72943411adb0d41beb57bb72895d99a4fedb1294b7607caddecd5d340c041e83fe5830a29a49c05cf54ce54a5cb65e.png" width="100%">
+<img src="./graph.png" width="100%">
 </p>
 
 <br/>
